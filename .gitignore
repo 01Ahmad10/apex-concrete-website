@@ -1,0 +1,9 @@
+# Real mail settings live only on the server (see mail-config.example.php)
+mail-config.php
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

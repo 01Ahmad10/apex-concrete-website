@@ -1,0 +1,6 @@
+# Keep LF line endings in the repo (the site is served from Linux hosting)
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary

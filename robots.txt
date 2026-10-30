@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /send-enquiry.php
+
+Sitemap: https://apexconcretepolishing.com.au/sitemap.xml
