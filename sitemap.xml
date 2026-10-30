@@ -6,7 +6,7 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://apexconcretepolishing.com.au/assets/arch.png</image:loc>
+      <image:loc>https://apexconcretepolishing.com.au/assets/arch.webp</image:loc>
       <image:title>Polished concrete floor beneath limestone arches</image:title>
     </image:image>
   </url>
@@ -22,15 +22,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://apexconcretepolishing.com.au/assets/bistro.png</image:loc>
+      <image:loc>https://apexconcretepolishing.com.au/assets/bistro.webp</image:loc>
       <image:title>Terracotta bistro with a warm concrete floor</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://apexconcretepolishing.com.au/assets/gallery.png</image:loc>
+      <image:loc>https://apexconcretepolishing.com.au/assets/gallery.webp</image:loc>
       <image:title>Skylit gallery with reflective concrete flooring</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://apexconcretepolishing.com.au/assets/garage.png</image:loc>
+      <image:loc>https://apexconcretepolishing.com.au/assets/garage.webp</image:loc>
       <image:title>Polished concrete garage opening onto a garden</image:title>
     </image:image>
   </url>
